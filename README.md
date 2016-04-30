@@ -5,6 +5,8 @@ G-NAF is a database of all the physical addresses in Australia.
 
 more details on G-NAF is available at https://data.gov.au/dataset/geocoded-national-address-file-g-naf
 
+Here, I have tried to simplify the loading process as much as possible. Suggestions and contributions are most welcome.
+
 ## Project Setup
 
 Follow below steps to load the data to your database:
