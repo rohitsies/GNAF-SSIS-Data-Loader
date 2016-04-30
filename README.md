@@ -31,6 +31,18 @@ Above script disables logging while bulk loading the data which makes bulk load 
 
 - Screenshots attached at the end of this page.
 
+## Code
+
+The package is just 2 step process as below
+
+Step 1. Load Authority Code Data:
+
+![image](https://cloud.githubusercontent.com/assets/397213/14935432/ee4eedec-0f14-11e6-8baa-7cfffe3f50e9.png)
+
+Step 2. Load Standard Code Data:
+
+![image](https://cloud.githubusercontent.com/assets/397213/14935441/210be7c6-0f15-11e6-8d7d-d4c5cf885d0b.png)
+
 ## Performance
 
 ![image](https://cloud.githubusercontent.com/assets/397213/14935371/82416bc2-0f12-11e6-8683-bb12a3bc0d02.png)
