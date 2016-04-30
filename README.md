@@ -54,11 +54,9 @@ Above script disables logging while bulk loading the data which makes bulk load 
 
 ## Contributing changes
 
-- _Internal git workflow_
-- _Pull request guidelines_
-- _Tracker project_
-- _Google group_
-- _irc channel_
-- _"Please open github issues"_
-
+- Feel free to contribute code changes for updates and optimization.
+ 
 ## License
+
+Code released under the [MIT license](https://github.com/rohitsies/GNAF-SSIS-Data-Loader/blob/master/LICENSE).
+
