@@ -19,7 +19,7 @@ Follow below steps to load the data to your database:
 
 4) Execute script G-NAF\Extras\GNAF_View_Scripts\address_view.sql (You might need to open the .sql file and change "CREATE OR REPLACE VIEW ADDRESS_VIEW" to "CREATE VIEW ADDRESS_VIEW"
 
-5) Download and execure script attached to this gitub account named BulkImportDataSP.sql. This creates stored procedure to bulk import data which is used by SSIS package
+5) Download and execute script attached to this gitub account named BulkImportDataSP.sql. This creates stored procedure to bulk import data which is used by SSIS package
 
 6) Execute ALTER DATABASE GNAF SET RECOVERY SIMPLE;
 Above script disables logging while bulk loading the data which makes bulk load faster
