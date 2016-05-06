@@ -26,7 +26,7 @@ Above script disables logging while bulk loading the data which makes bulk load 
 
 7) Now is the time to actually load the data, either open the solution, configure details and run or directly run the package.
 
-8) To configure, ssisconfig.dtsConfig is available in th package, just change the connection string, run the package file, add the configuration path and execute.
+8) To configure, ssisconfig.dtsConfig is available in the package, just change the connection string, run the package file, add the configuration path and execute.
 
 ## Note
 - It might show errors "The connection "" is not found. This error ....".Ignore those as we are going to use connection string from the config file.
