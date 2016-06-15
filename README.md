@@ -11,7 +11,9 @@ Here, I have tried to simplify the loading process as much as possible. Suggesti
 
 Follow below steps to load the data to your database:
 
-1) Download the zip file from above link with name "PSMA Geocoded National Address File (G-NAF)ZIP Popular". It will be around 1 gb
+1) Download the zip file from above link with name "PSMA Geocoded National Address File (G-NAF)ZIP Popular". It will be around 1 gb.
+From the website find below link:
+![image](https://cloud.githubusercontent.com/assets/397213/16068230/ae10d8b4-3307-11e6-8c9c-30c61d9ec0f9.png)
 
 2) Create Sql database and run G-NAF\Extras\GNAF_TableCreation_Scripts\create_tables_sqlserver.sql (Ignore the drop table scripts)
 
