@@ -1,6 +1,6 @@
 1. Create a VM, Network
 2. Create RDP add Inbound rule for RDP 3389
-3. Install SQL
+3. Install SQL Server and SSMS
 4. Download GNAF zip files, and SSIS package
 5. Create database, Run SSIS
 
